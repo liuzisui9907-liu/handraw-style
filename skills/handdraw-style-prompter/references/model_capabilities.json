@@ -480,6 +480,11 @@
         "274": {
           "name_activation": "weak",
           "traits_activation": "strong"
+        },
+        "275": {
+          "name_activation": "none",
+          "traits_activation": "none",
+          "use_reference_image": true
         }
       }
     }
